@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @ottokunkel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-ottokunkel/ottokunkel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science Student at Columbia and am very interested in all things AI and Data Science.
+I would love to collaborate on any sort of projects so feel free to reach out. I have experience mainly building
+full stack apps with Python and Typescript. For research, I am proficient in LaTex and many Python libraries. 
+
+
+- 📫 How to reach me:
+- ottokunkel034@gmail.com
+
