@@ -10,22 +10,57 @@
 </div>
 
 
-I am a CS Major @Columbia. I'm very interested in all things ML, Agents, and startups. <br>
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
+### 👋 About me
 
-**Previous**: Intern @Google
-- AI flow team → worked on [Opal](https://opal.google/landing/)
-- Built Natrual Language → SQL on Spanner with MCP tooling and curated golden dataset
-- Experimented with [browser agents](https://github.com/browser-use/browser-use) towards end of summer
+I'm a CS major at **Columbia** interested in ML, agents, and startups.
 
-<br>
+**Previous:** Intern @ **Google**
+
+- AI Flow team → worked on [Opal](https://opal.google/landing/)
+- Built Natural Language → SQL on Spanner with MCP tooling and curated a golden dataset
+- Experimented with [browser agents](https://github.com/browser-use/browser-use) toward the end of summer
 
 I'm always down to collaborate on interesting ML, agent, infra, or startup projects.
 
 📫 **Reach me:**  
-[Email](mailto:ottokunkel034@gmail.com) · [LinkedIn](https://www.linkedin.com/in/otto-kunkel/)
+<p>
+  <a href="mailto:ottokunkel034@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ottokunkel034%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/otto-kunkel/">
+    <img src="https://img.shields.io/badge/LinkedIn-Otto%20Kunkel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+  </td>
+  <td width="40%" valign="top">
 
----
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ottokunkel&theme=solarized" width="100%" />
+
+<br>
+
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
+  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
+  <img src="https://img.shields.io/badge/-C-000?&logo=C" />
+  <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" />
+  <img src="https://img.shields.io/badge/-Swift-000?&logo=Swift" />
+</p>
+
+
+  </td>
+  </tr>
+</table>
+
 
 
 # 🚧 Current Project: Notus
@@ -46,27 +81,3 @@ I think there's promise in programatic visualizations and stored knowledge rathe
   <img src="https://github.com/user-attachments/assets/da9fc163-5183-429b-bfd2-3496c962058e" width="48%" />
 </p>
   
-## Tools I use
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
