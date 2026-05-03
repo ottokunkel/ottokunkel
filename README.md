@@ -9,14 +9,11 @@
 </p>
 </div>
 
-
-<table>
-  <tr>
-    <td width="60%" valign="top">
+<img align="right" width="260" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ottokunkel&theme=solarized" />
 
 ### 👋 About me
 
-I'm a CS major at **Columbia** interested in ML, agents, and startups.
+I'm a CS major at [**Columbia**](https://www.engineering.columbia.edu/) interested in ML, agents, and startups.
 
 **Previous:** Intern @ **Google**
 
@@ -26,7 +23,8 @@ I'm a CS major at **Columbia** interested in ML, agents, and startups.
 
 I'm always down to collaborate on interesting ML, agent, infra, or startup projects.
 
-📫 **Reach me:**  
+### 📫 Reach me
+
 <p>
   <a href="mailto:ottokunkel034@gmail.com">
     <img src="https://img.shields.io/badge/Email-ottokunkel034%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -34,32 +32,11 @@ I'm always down to collaborate on interesting ML, agent, infra, or startup proje
   <a href="https://www.linkedin.com/in/otto-kunkel/">
     <img src="https://img.shields.io/badge/LinkedIn-Otto%20Kunkel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://x.com/ottokunkel_1">
+    <img src="https://img.shields.io/badge/X-ottokunkel__1-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
-  </td>
-  <td width="40%" valign="top">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ottokunkel&theme=solarized" width="100%" />
-
-<br>
-
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-000?&logo=Python" />
-  <img src="https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript" />
-  <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396" />
-  <img src="https://img.shields.io/badge/-C-000?&logo=C" />
-  <img src="https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL" />
-  <img src="https://img.shields.io/badge/-Swift-000?&logo=Swift" />
-</p>
-
-
-  </td>
-  </tr>
-</table>
+<br clear="right" />
 
 
 
