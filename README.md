@@ -41,10 +41,10 @@ I think there's promise in programatic visualizations and stored knowledge rathe
 
 #### Example generated visualizations:
 
-<div style="display: flex; gap: 12px; align-items: center; width: 95%;">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/28be26a6-12c9-4bad-8d7c-5878b20a78e4" />
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/da9fc163-5183-429b-bfd2-3496c962058e" />
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28be26a6-12c9-4bad-8d7c-5878b20a78e4" width="48%" />
+  <img src="https://github.com/user-attachments/assets/da9fc163-5183-429b-bfd2-3496c962058e" width="48%" />
+</p>
   
 ## Tools I use
 ### Languages
