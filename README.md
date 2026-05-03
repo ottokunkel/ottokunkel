@@ -1,7 +1,7 @@
 
 <p align="center">
   <img     
-      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZmcmh1dW1wdmhuemE5YjZyZWUydjV2dnkyOTZpMXo3bmI3MXZuciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Spi9xOSt08PgD4TE8/giphy.gif" 
+      src="https://github.com/ottokunkel/ottokunkel/blob/main/Yourparagraphtext2-ezgif.com-crop.gif" 
       alt="Demo GIF" 
       width=100%
       />
@@ -11,7 +11,6 @@
 
 
 I am a CS Major @Columbia. I'm very interested in all things ML, Agents, and startups. <br>
-I'm always down to collaborate! reach out!
 
 
 **Previous**: Intern @Google
@@ -26,6 +25,28 @@ I'm always down to collaborate on interesting ML, agent, infra, or startup proje
 📫 **Reach me:**  
 [Email](mailto:ottokunkel034@gmail.com) · [LinkedIn](https://www.linkedin.com/in/otto-kunkel/)
 
+---
+
+
+# 🚧 Current Project: Notus
+( private-repo ⇒ reach out if you'd like to help )
+#### Details: 
+- Building a local "document-first" containerized agent.
+- Borrows ideas from [RLM's](https://arxiv.org/pdf/2512.24601) and [SOTA coding agents](https://opencode.ai/) to parse/understand/build knowledge better than normal RAG
+- Currently finding success in building long-context personalized study material and graphics:
+    - textbooks → mini-khan academy
+
+**current belief**: 
+I think there's promise in programatic visualizations and stored knowledge rather than ephemeral chats and have personally found use in it while working/studying
+
+#### Example generated visualizations:
+
+<div style="display: flex; gap: 12px; align-items: center;">
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/28be26a6-12c9-4bad-8d7c-5878b20a78e4" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/da9fc163-5183-429b-bfd2-3496c962058e" />
+</div>
+  
+## Tools I use
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -49,25 +70,3 @@ I'm always down to collaborate on interesting ML, agent, infra, or startup proje
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-
----
-
-
-# 🚧 Current Project: Notus
-( private-repo ⇒ reach out if you'd like to help )
-#### Details: 
-- Building a local "document-first" containerized agent.
-- Borrows ideas from [RLM's](https://arxiv.org/pdf/2512.24601) and [SOTA coding agents](https://opencode.ai/) to parse/understand/build knowledge better than normal RAG
-- Currently finding success in building long-context personalized study material and graphics:
-    - textbooks → mini-khan academy
-
-**current belief**: 
-I think there's promise in programatic visualizations and stored knowledge rather than ephemeral chats and have personally found use in it while working/studying
-
-#### Example generated visualizations:
-
-<div style="display: flex; gap: 12px; align-items: center;">
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/28be26a6-12c9-4bad-8d7c-5878b20a78e4" />
-  <img width="500" alt="image" src="https://github.com/user-attachments/assets/da9fc163-5183-429b-bfd2-3496c962058e" />
-</div>
-  
